@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervave",
+        "uuid": 5721630,
+        "checksum": "k7034o"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
